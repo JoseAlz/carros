@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carros/static/css/main.5166a0f0.css",
+    "main.js": "/carros/static/js/main.bbeb250b.js",
+    "static/js/787.83f48ebd.chunk.js": "/carros/static/js/787.83f48ebd.chunk.js",
+    "index.html": "/carros/index.html",
+    "main.5166a0f0.css.map": "/carros/static/css/main.5166a0f0.css.map",
+    "main.bbeb250b.js.map": "/carros/static/js/main.bbeb250b.js.map",
+    "787.83f48ebd.chunk.js.map": "/carros/static/js/787.83f48ebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5166a0f0.css",
+    "static/js/main.bbeb250b.js"
+  ]
+}

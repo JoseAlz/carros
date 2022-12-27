@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Trilogia de la Fundacion",
+      "author": "Isacc Asimov",
+      "price": 600,
+      "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/52/d2/52d2b500f233045126528782d94848e4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "La Casta de Los Metabarones",
+      "author": "Alejandro Jodorowsky",
+      "price": 20,
+      "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/15/05/15051197af8f0a016247e1cc176738b8.jpg"
+    },
+  
+    {
+      "id": 3,
+      "name": "1984",
+      "author": "Orwell George",
+      "price": 249,
+      "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/e6/32/e6329c74d2e8c7057d2a036d8d1be0b2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Saga Dune 1-6.",
+      "author": "Frank Herbert",
+      "price": 21.376,
+      "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/d8/32/d83286dc6a96c8d45183d87bb47c4782.jpg"
+    }
+  ]
